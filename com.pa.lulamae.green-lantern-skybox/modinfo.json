@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.green-lantern-skybox",
+  "display_name": "Green Lantern Skybox",
+  "description": "System placed among green nebulae",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/rel-green-lantern-custom-skybox.72789/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/green-lantern-skybox-icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.green-lantern-skybox/settings.js"
+      ]
+  }
+}
